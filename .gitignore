@@ -1,3 +1,6 @@
+# vscode
+.vscode
+
 # eclipse
 bin
 *.launch
@@ -20,7 +23,4 @@ build
 # other
 eclipse
 run
-runs
 run-data
-
-repo
